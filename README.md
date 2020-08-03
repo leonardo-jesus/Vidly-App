@@ -20,7 +20,7 @@
 
 ## 🚀 Technologies
 
-This project was developed with the following technologies:
+This project is being developed with the following technologies:
 
 - [Javascript](https://www.javascript.com/)
 - [NodeJS](https://nodejs.org/)
@@ -28,7 +28,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-The ***Vidly App***,  is a Project under **construction** :construction_worker: :construction:, it is part from the [Complete NodeJS Course made by Mosh](https://codewithmosh.com/p/the-complete-node-js-course). With the purpose of training ***CRUD***, using ***Express***. Made with **Javascript**, **NodeJS** and **Express**.
+The ***Vidly App***,  is a Project under **construction** :construction_worker: :construction:, it is part from the [Complete NodeJS Course made by Mosh](https://codewithmosh.com/p/the-complete-node-js-course). With the purpose of learning ***NodeJS***, using ***Express*** to create CRUD. Made with **Javascript**, **NodeJS** and **Express**.
 
 ## 🤔 How to contribute
 
